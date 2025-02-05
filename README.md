@@ -46,4 +46,10 @@ port 7266
 9:50AM deleted the previous migration and updated it with 20250129143716_InitialCreate
 9:55AM finished part 8 and added the rating field to the index and edit and create pages
 
+2025-02-04
 
+8:00PM fixed the rating issues
+8:20PM tested the fixes implemented
+8:30PM added the validation to the fields
+8:40PM uploaded to github repo
+8:50PM updated readme
