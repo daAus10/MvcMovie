@@ -1,7 +1,7 @@
 
 2025-01-18
-	
- 	port 7266
+
+    port 7266
 	9:00AM started again and added another controller
 	9:15 added methods to the controller and it will be test it
 	9:30 modified the code and it works, used my own values and tested it.
@@ -17,8 +17,8 @@
 	8:15PM added the new controller and tested the new controller
 
 2025-01-20
-	
- 	4:30pm created the dataabse migration 20250120041938_InitialCreate
+
+	4:30pm created the dataabse migration 20250120041938_InitialCreate
 	9:00pm emailed Andrew about hte issue regrading the system crash
 	9:15pm will fix the issue in class tomorrow! very weird
 
@@ -54,4 +54,11 @@
 	8:20PM tested the fixes implemented
 	8:30PM added the validation to the fields
 	8:40PM uploaded to github repo
-	8:50PM updated readme
+	8:50AM updated readme
+	
+2025-02-05
+
+	9:00PM added more movies to the seedData file
+	9:10PM updated the readme
+	9:20 uploaded to GitHub
+

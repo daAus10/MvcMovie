@@ -300,3 +300,4 @@
 /Users/austin/Desktop/lab_folder/MvcMovie/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
 /Users/austin/Desktop/lab_folder/MvcMovie/obj/Debug/net8.0/MvcMovie.csproj.AssemblyReference.cache
 /Users/austin/Desktop/lab_folder/MvcMovie/obj/Debug/net8.0/MvcMovie.csproj.Up2Date
+/Users/austin/Desktop/lab_folder/MvcMovie/obj/Debug/net8.0/MvcMovie.sourcelink.json
