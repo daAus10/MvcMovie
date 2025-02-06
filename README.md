@@ -52,4 +52,9 @@ port 7266
 	8:20PM tested the fixes implemented
 	8:30PM added the validation to the fields
 	8:40PM uploaded to github repo
-	8:50PM updated readme
+	8:50AM updated readme
+	
+2025-02-05
+	9:00PM added more movies to the seedData file
+	9:10PM updated the readme
+	9:20 uploaded to GitHub
